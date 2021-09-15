@@ -1,0 +1,73 @@
+{
+  "common": {
+    "get_started": "ابدا",
+    "about_us": "الموضوع",
+    "about": "الموضوع",
+    "portfolio": "المعلومات",
+    "services": "الحدمات",
+    "support": "الدعم"
+  },
+  "home": {
+    "home": "الصفحة الرئيسية",
+    "home_page": "الصفحة الرئيسية",
+    "menu": "القائمة",
+    "pricing": "الاسعار",
+    "contact_us": "الانصال",
+    "english": "الانكليزية",
+    "arabic": "العربية"
+  },
+  "about": {
+    "our_goal_is_to_make_your_life_easier": "هدفنا جعل حياتك افضل",
+    "create_idea": "اطرح فكرة",
+    "smart_solutions": "حلول ذكية",
+    "free_support": "دعم مجاني"
+  },
+  "portfolio": {
+    "see_our_amazing_portfolio_collection": "انظر الى اجمل التشكيلات",
+    "art_design": "فن تزييني",
+    "landing": "هبوط",
+    "graphic": "الرسم",
+    "show_all": "عرض الكل"
+  },
+  "services": {
+    "choose_what_you_like_our_services": "اختر ما يعجبك من خدماتنا",
+    "word_press": "وارد برس",
+    "logo_design": "تنسيق الشعار",
+    "online_seo": "بحث",
+    "mobile_apps": "الهواتف المحمولة",
+    "copy_writing": "حقوق الكتابة",
+    "brand_strategy": "الماركة"
+  },
+  "pricing_table": {
+    "pricing_table": "قائمة الاسعار",
+    "basic": "الرئيسي",
+    "standard": "متوسط",
+    "premium": "استثنائي",
+    "your_plance_your_choice": "مكانك اختيارك",
+    "responsive": "متجاوب",
+    "documentation": "تقرير",
+    "multimedia": "الوسائط المتعددة",
+    "creative": "ذكي",
+    "modern": "حديث",
+    "free_update": "تجديد مجاني"
+  },
+  "contact": {
+    "address": "العنوان",
+    "phone": "الهاتف",
+    "email": "البريد الالكتروني",
+    "name": "الاسم",
+    "email_address": "البريد الالكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "send_message": "ارسل الرسالة"
+  },
+  "footer": {
+    "follow_us": "تابعنا",
+    "contact": "اتصال",
+    "facebook": "فايسبوك",
+    "twitter": "تويتر",
+    "instagram": "انستاغرام",
+    "copyright": "الحقوق",
+    "all_rights_reserved": "جميع الحقوق محفوظة"
+  }
+}

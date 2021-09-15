@@ -1,0 +1,73 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "about": "About",
+    "about_us": "About Us",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "support": "Support"
+  },
+  "home": {
+    "home_page": "Home Page",
+    "home": "Home",
+    "menu": "Menu",
+    "pricing": "Pricing",
+    "contact_us": "Contact us",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "about": {
+    "our_goal_is_to_make_your_life_easier": "Our goal is to make your life easier",
+    "create_idea": "Create Idea",
+    "smart_solutions": "Smart Solutions",
+    "free_support": "Free Support"
+  },
+  "portfolio": {
+    "see_our_amazing_portfolio_collection": "See our amazing portfolio collection",
+    "art_design": "Art Design",
+    "landing": "Landing",
+    "graphic": "Graphic",
+    "show_all": "Show All"
+  },
+  "services": {
+    "choose_what_you_like_our_services": "Choose what you like our services",
+    "word_press": "WordPress",
+    "logo_design": "Logo Design",
+    "online_seo": "Online SEO",
+    "mobile_apps": "Mobile Apps",
+    "copy_writing": "Copy Writing",
+    "brand_strategy": "Brand Strategy"
+  },
+  "pricing_table": {
+    "pricing_table": "Pricing Table",
+    "basic": "Basic",
+    "standard": "Standard",
+    "premium": "Premium",
+    "your_plance_your_choice": "Your plance, your choice",
+    "responsive": "Responsive",
+    "documentation": "Documentation",
+    "multimedia": "Multimedia",
+    "creative": "Creative",
+    "modern": "Modern",
+    "free_update": "Free Update"
+  },
+  "contact": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "name": "Name",
+    "email_address": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "send_message": "Send Message"
+  },
+  "footer": {
+    "follow_us": "Follow Us",
+    "contact": "Contact",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "copyright": "CopyRight",
+    "all_rights_reserved": "All Rights Reserved"
+  }
+}
